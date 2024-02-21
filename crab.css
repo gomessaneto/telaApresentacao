@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.card {
+    width: 380px;
+    height: 420px;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color: rgb(53, 38, 38);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 10px 12px;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}
+
+.eu{
+   width: 145px;
+   height: 160px;
+   border-radius: 50px ;
+   margin-top: 20px;
+}
+
+.texto-main{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(252, 252, 252);
+}
+
+.descricao{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+
+.linha{
+    position: relative;
+    margin: 50px auto;
+    padding: 40px 0;
+    width: 1000px;
+}
